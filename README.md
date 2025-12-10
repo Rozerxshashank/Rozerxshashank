@@ -12,7 +12,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **[Project Name]**
+- 🔭 I’m currently learning about Open Source and LLMs.
 - 🌱 I’m currently learning **Rust,Flutter,Dart,Python,C++,JS**
 - 👯 I’m looking to collaborate on **Open Source projects**
 - 💬 Ask me about **Python,DSA,JS etc.**
