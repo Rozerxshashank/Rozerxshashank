@@ -17,7 +17,7 @@
 - 👯 I’m looking to collaborate on **Open Source projects**
 - 💬 Ask me about **Python,DSA,JS etc.**
 - 📫 How to reach me: **yshashank959@gmail.com**
-- ⚡ Fun fact: **The World is a Beautiful Place to Live..😊**
+- ⚡ Fun fact: **Ptrenadon is not a Dinosaur.**
 
 ---
 
