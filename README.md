@@ -23,7 +23,7 @@ I'm a **Student & Aspiring Developer** currently exploring the worlds of Web and
 ---
 
 ### 📈 Growth Stats
-![Shashank's GitHub stats](https://github-readme-stats.vercel.app/api?username=rozerxshashank&show_icons=true&theme=dracula)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=rozerxshashank&show_icons=true&theme=dracula)
 
 ---
 
