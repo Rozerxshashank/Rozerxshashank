@@ -40,5 +40,6 @@ I'm a **Student & Aspiring Developer** currently exploring the worlds of Web and
 - **GitHub:** You're already here! Feel free to check out my repos.
 - **LinkedIn:** www.linkedin.com/in/shashank-yadav-560740384
 - **Email:** yshashank959@gmail.com
+- **X:** https://x.com/ROZERRIZZ
 
 > "The best way to learn is by doing."
