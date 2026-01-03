@@ -1,68 +1,35 @@
-<h1 align="center">Hi there, I'm <a href="https://github.com/rozerxshashank" target="_blank">Shashank</a>! 👋</h1>
+# Hi, I'm Shashank! 👋 (@rozerxshashank)
 
-<p align="center">
-  <img src="https://media.giphy.com/media/SwamiCSa948ySIZ0c6/giphy.gif" width="200" />
-</p>
-
-<p align="center">
-  <em>A passionate Developer / Student / Data Enthusiast from [Bengaluru]</em>
-</p>
+I'm a **Student & Aspiring Developer** currently exploring the worlds of Web and Mobile development. I love building small projects to see how things work under the hood!
 
 ---
 
-### 👨‍💻 About Me
-
-- 🔭 I’m currently learning about Open Source and LLMs.
-- 🌱 I’m currently learning **Flutter,Python,C++,JS**
-- 👯 I’m looking to collaborate on **Open Source projects**
-- 💬 Ask me about **Python,DSA,JS etc.**
-- 📫 How to reach me: **yshashank959@gmail.com**
-- ⚡ Fun fact: **Pteranodon is not a Dinosaur.**
+### 📚 What I'm Up To
+- 🎓 **Currently studying:** Focusing on my core programming foundations.
+- 🏗️ **Building:** Small apps with **Flutter** and responsive sites with **HTML/CSS**.
+- 🐍 **Python:** Using it for automation and learning logic.
+- 🌱 **Learning:** Deepening my knowledge of **JavaScript** and state management in **Dart**.
 
 ---
 
-### 🛠️ Languages and Tools
+### 🛠 My Learning Toolbox
 
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a>
-</p>
+| Area | Tools |
+| :--- | :--- |
+| **Web Dev** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) |
+| **App Dev** | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) |
+| **Logic/Back** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) |
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rozerxshashank&show_icons=true&theme=radical" alt="Shashank's Github Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rozerxshashank&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rozerxshashank&theme=radical" alt="GitHub Streak" />
-</p>
+### 📈 Growth Stats
+![Shashank's GitHub stats](https://github-readme-stats.vercel.app/api?username=rozerxshashank&show_icons=true&theme=dracula)
 
 ---
 
-### 🤝 Connect with me
+### 📫 Get in Touch
+- **GitHub:** You're already here! Feel free to check out my repos.
+- **LinkedIn:** www.linkedin.com/in/shashank-yadav-560740384
+- **Email:** yshashank959@gmail.com
 
-<p align="left">
-  <a href="www.linkedin.com/in/shashank-yadav-560740384" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin" height="30" width="40" />
-  </a>
-  <a href="https://x.com/ROZERRIZZ" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="your-twitter" height="30" width="40" />
-  </a>
-</p>
+> "The best way to learn is by doing."
