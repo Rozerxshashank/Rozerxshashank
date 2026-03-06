@@ -6,7 +6,7 @@ I'm a **Student & Aspiring Developer** currently exploring the worlds of Web and
 
 ### 📚 What I'm Up To
 - 🎓 **Currently studying:** Focusing on my core programming foundations.
-- 🏗️ **Building:** Small apps with **Flutter** and responsive sites with **HTML/CSS**.
+- 🏗️ **Building:** Small apps with **Flutter** and responsive sites with **HTML/CSS/JS/TS**.
 - 🐍 **Python:** Using it for automation and learning logic.
 - 🌱 **Learning:** Deepening my knowledge of **JavaScript** and state management in **Dart**.
 
@@ -16,9 +16,9 @@ I'm a **Student & Aspiring Developer** currently exploring the worlds of Web and
 
 | Area | Tools |
 | :--- | :--- |
-| **Web Dev** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) |
+| **Web Dev** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) |(https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) |
 | **App Dev** | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) |
-| **Logic/Back** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) |
+| **Backend & Systems** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white) |
 
 ---
 
