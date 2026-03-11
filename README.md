@@ -1,4 +1,4 @@
-# Hi, I'm Shashank! 👋 (@rozerxshashank)
+# Hi, I'm Shashank!  (@rozerxshashank)
 
 I'm a **Student & Aspiring Developer** currently exploring the worlds of Web and Mobile development. I love building small projects to see how things work under the hood!
 
