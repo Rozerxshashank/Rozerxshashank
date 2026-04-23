@@ -1,4 +1,4 @@
-# Hi, I'm Shashank!  (@rozerxshashank)
+# Hi, I'm Shashank! 👋 (@rozerxshashank)
 
 I'm a **Student & Aspiring Developer** currently exploring the worlds of Web and Mobile development. I love building small projects to see how things work under the hood!
 
@@ -24,11 +24,9 @@ I'm a **Student & Aspiring Developer** currently exploring the worlds of Web and
 
 ---
 
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rozerxshashank&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rozerxshashank&theme=dark&hide_border=false)<br/>
-
+![](https://github-readme-streak-stats.herokuapp.com/?user=rozerxshashank&theme=dark&hide_border=false)<br/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rozerxshashank&theme=radical&no-frame=false&no-bg=true&margin-w=4)
@@ -41,6 +39,6 @@ I'm a **Student & Aspiring Developer** currently exploring the worlds of Web and
 ### 📫 Get in Touch
 - **GitHub:** You're already here! Feel free to check out my repos.
 - **Email:** yshashank959@gmail.com
-- **X:** https://x.com/ROZERRIZZ
+- **X:** [https://x.com/ROZERRIZZ](https://x.com/ROZERRIZZ)
 
 > "The best way to learn is by doing."
