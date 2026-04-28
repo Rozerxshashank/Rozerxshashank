@@ -35,7 +35,7 @@ I'm a **Student & Aspiring Developer** currently exploring the worlds of Web and
 [![](https://visitcount.itsvg.in/api?id=rozerxshashank&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
-
+[![@rozerxshashank's Holopin board](https://holopin.me/rozerxshashank)](https://holopin.io/@rozerxshashank)
 ### 📫 Get in Touch
 - **GitHub:** You're already here! Feel free to check out my repos.
 - **Email:** yshashank959@gmail.com
