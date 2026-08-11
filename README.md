@@ -1,4 +1,4 @@
-# Hi, I'm Shashank 👋 (@rozerxshashank)
+# Hi, I'm Shashank 
 
 I'm a **Developer and AI Engineering enthusiast** who enjoys building real-world systems and contributing to open-source projects.
 
@@ -103,7 +103,7 @@ Contributed to **Rein**, an open-source Electron-based remote desktop applicatio
 I actively contribute to open-source projects and enjoy working on projects where I can understand an existing codebase, identify problems, work with skilled and cool people, and build practical solutions.
 
 -  **60+ merged PRs** across open-source projects.
-- Major focus on **unit testing and improving test coverage in Fabric-Smart-Client**.
+-  Major focus on **unit testing and improving test coverage in Fabric-Smart-Client**.
 -  Worked on features, bug fixes, cross-platform compatibility, and developer tooling.
 -  Collaborated with maintainers and contributors from projects involving organizations such as **Hyperledger and AOSSIE**.
 
@@ -125,7 +125,6 @@ I actively contribute to open-source projects and enjoy working on projects wher
 
 ## 📫 Get in Touch
 
-- **GitHub:** [@rozerxshashank](https://github.com/rozerxshashank)
 - **Email:** yshashank959@gmail.com
 - **LinkedIn:** [Shashank Yadav](https://linkedin.com/in/shashank-yadav-560740384/)
 - **X:** [@ROZERRIZZ](https://x.com/ROZERRIZZ)
