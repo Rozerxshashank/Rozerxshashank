@@ -1,4 +1,4 @@
-# Hi, I'm Shashank 
+# Hi, I'm Shashank Yadav
 
 I'm a **Developer and AI Engineering enthusiast** who enjoys building real-world systems and contributing to open-source projects.
 
